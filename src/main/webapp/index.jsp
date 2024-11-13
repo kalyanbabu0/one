@@ -11,7 +11,8 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
 	<h1 style="color: green; font-size: 40px;" align="center"> my nane is kalyan</h1>
-	
+	<h1 style="color: lightblue; font-size: 50px;" align="rightside"> softewar developer</h1>
+	<h1 style="color: red; font-size: 50px;" align="leftsider"> deops is a subject</h1>
 	
 	
 	
