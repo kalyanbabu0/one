@@ -14,7 +14,7 @@
 	<h1 style="color: lightblue; font-size: 50px;" align="rightside"> softewar developer</h1>
 	<h1 style="color: red; font-size: 50px;" align="leftsider"> deops is a subject</h1>
 
-	<h1 style="color: gold; font-size: 200px;" align="center"> my Frind  Chatan </h1>
+	<h1 style="color: gold; font-size: 200px;" align="center"> my Frind  Chetan </h1>
 
 	<h1 style="color: rainbow; font-size: 100px;" align="center"> Dirty Mind Gowri papa</h1>
 	
